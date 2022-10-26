@@ -10,5 +10,6 @@ class Sample
         r=sc.nextInt();
         i=((p*t*r)/100);
         System.out.println(i);
+        sc.close();
     }
 }
